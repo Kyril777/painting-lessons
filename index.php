@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
 
     <!-- SASS-powered Stylesheets. -->
     <link type="text/css" rel="stylesheet" href="css/reset.css" />
