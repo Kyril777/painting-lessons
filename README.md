@@ -1,2 +1,2 @@
 # painting-lessons
-A front-page project styles by SASS.
+A front-page project styled by SASS.
